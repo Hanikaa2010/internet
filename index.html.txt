@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Karácsony Hanna</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Biztonságos internethasználat</h1>
+        <p>Útmutató a tudatos és biztonságos online jelenléthez</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#jelszobiztonsag">Jelszóbiztonság</a></li>
+            <li><a href="#szemelyes-adatok">Személyes adatok védelme</a></li>
+            <li><a href="#adathalaszat">Adathalászat</a></li>
+            <li><a href="#eszkozvedelem">Eszközvédelem</a></li>
+            <li><a href="#ismeretlenek">Ismeretlenek kezelése</a></li>
+            <li><a href="#kozossegi-media">Közösségi média tudatosság</a></li>
+            <li><a href="#kritikus-gondolkodas">Kritikus gondolkodás</a></li>
+            <li><a href="#cyberbantas">Cyberbullying és online etikett</a></li>
+            <li><a href="#osszegzes">Összegzés</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="bevezetes" class="card">
+            <h2>Miért fontos a biztonságos internethasználat?</h2>
+            <p>
+                Az internet rengeteg lehetőséget kínál tanulásra, szórakozásra és kapcsolattartásra, 
+                ugyanakkor veszélyeket is rejt: csalások, adathalászat, zaklatás, adatlopás. 
+                A cél, hogy magabiztosan, tudatosan és felelősen használd a digitális eszközöket.
+            </p>
+        </section>
+
+        <section id="jelszobiztonsag" class="card">
+            <h2>Jelszóbiztonság</h2>
+            <ul>
+                <li><strong>Erős jelszó:</strong> legalább 12 karakter, kis- és nagybetű, szám, speciális karakter.</li>
+                <li><strong>Ne használd ugyanazt mindenhol:</strong> külön jelszó fontosabb fiókokhoz (e-mail, bank, közösségi média).</li>
+                <li><strong>Jelszókezelő használata:</strong> segít biztonságosan tárolni és generálni jelszavakat.</li>
+                <li><strong>Kétlépcsős azonosítás:</strong> ahol lehet, kapcsold be (SMS, alkalmazás, biztonsági kulcs).</li>
+                <li><strong>Ne oszd meg a jelszavad:</strong> se baráttal, se „ügyfélszolgálattal”, se ismeretlennel.</li>
+            </ul>
+        </section>
+
+        <section id="szemelyes-adatok" class="card">
+            <h2>Személyes adatok védelme</h2>
+            <ul>
+                <li><strong>Gondold át, mit osztasz meg:</strong> lakcím, telefonszám, iskola, munkahely – csak indokolt esetben.</li>
+                <li><strong>Adatvédelmi beállítások:</strong> ellenőrizd a közösségi oldalakon, ki mit láthat rólad.</li>
+                <li><strong>Űrlapok kitöltésekor:</strong> csak megbízható oldalakon add meg az adataidat.</li>
+                <li><strong>Dokumentumok, fotók:</strong> figyelj, ne legyen rajtuk személyes azonosító (pl. igazolvány, jegy, QR-kód).</li>
+            </ul>
+        </section>
+
+        <section id="adathalaszat" class="card">
+            <h2>Adathalászat (phishing)</h2>
+            <ul>
+                <li><strong>Gyanús e-mailek és üzenetek:</strong> sürgetnek, fenyegetnek, vagy „nyereményt” ígérnek.</li>
+                <li><strong>Mindig ellenőrizd a feladót:</strong> hasonló, de nem azonos cím (pl. bank helyett „bank-info@...” ).</li>
+                <li><strong>Ne kattints ismeretlen linkre:</strong> inkább írd be kézzel a webcímet a böngészőbe.</li>
+                <li><strong>Soha ne add meg jelszavad, bankkártyád linkre kattintva:</strong> a bank nem így kér adatot.</li>
+            </ul>
+        </section>
+
+        <section id="eszkozvedelem" class="card">
+            <h2>Eszközvédelem</h2>
+            <ul>
+                <li><strong>Frissítések:</strong> rendszeres operációs rendszer és alkalmazás frissítés.</li>
+                <li><strong>Vírusirtó és tűzfal:</strong> használj megbízható védelmi szoftvert.</li>
+                <li><strong>Képernyőzár:</strong> PIN, jelszó vagy biometria telefonon, laptopon.</li>
+                <li><strong>Biztonsági mentés:</strong> fontos fájlok mentése felhőbe vagy külső meghajtóra.</li>
+                <li><strong>Nyilvános Wi-Fi:</strong> kerüld érzékeny műveletekre (bankolás, belépés fontos fiókokba).</li>
+            </ul>
+        </section>
+
+        <section id="ismeretlenek" class="card">
+            <h2>Ismeretlenek kezelése</h2>
+            <ul>
+                <li><strong>Ne fogadj el ismeretlen ismerősnek:</strong> ellenőrizd, valóban ismered-e az illetőt.</li>
+                <li><strong>Ne küldj személyes adatot:</strong> cím, telefonszám, fotó – különösen idegeneknek.</li>
+                <li><strong>Találkozó szervezése:</strong> ha mégis, legyen nyilvános helyen, kísérővel, és szólj valakinek.</li>
+                <li><strong>Blokkolás és jelentés:</strong> zaklató vagy gyanús profilokat jelents és tilts le.</li>
+            </ul>
+        </section>
+
+        <section id="kozossegi-media" class="card">
+            <h2>Közösségi média tudatosság</h2>
+            <ul>
+                <li><strong>Digitális lábnyom:</strong> amit egyszer feltöltesz, később is visszakereshető lehet.</li>
+                <li><strong>Megosztás előtt gondold át:</strong> „Mit szólnék, ha ezt a tanárom / főnököm / szüleim látnák?”</li>
+                <li><strong>Hamis hírek és manipuláció:</strong> ellenőrizd a forrást, ne ossz meg bizonytalan tartalmat.</li>
+                <li><strong>Összehasonlítás csapdája:</strong> a közösségi média gyakran csak a „szépített valóságot” mutatja.</li>
+            </ul>
+        </section>
+
+        <section id="kritikus-gondolkodas" class="card">
+            <h2>Kritikus gondolkodás</h2>
+            <ul>
+                <li><strong>Kérdezz rá:</strong> ki írta, miért írta, mikor írta az adott tartalmat?</li>
+                <li><strong>Több forrásból tájékozódj:</strong> ne egyetlen oldalra vagy véleményre hagyatkozz.</li>
+                <li><strong>Ne dőlj be a szenzációnak:</strong> túlzó címek, érzelmekre ható szövegek gyakran félrevezetők.</li>
+                <li><strong>Gondold végig a következményeket:</strong> mit okozhat, ha megosztasz vagy elhiszel valamit?</li>
+            </ul>
+        </section>
+
+        <section id="cyberbantas" class="card">
+            <h2>Cyberbullying és online etikett</h2>
+            <ul>
+                <li><strong>Légy tiszteletteljes:</strong> úgy írj másoknak, ahogy szeretnéd, hogy neked írjanak.</li>
+                <li><strong>Ne oszd meg mások fotóit engedély nélkül:</strong> ez sértheti a magánszférájukat.</li>
+                <li><strong>Zaklatás esetén:</strong> mentsd a bizonyítékot, tiltsd le az illetőt, és szólj egy felnőttnek / felettesnek.</li>
+                <li><strong>Ne légy passzív szemlélő:</strong> ha bántást látsz, támogasd az áldozatot, jelezd a platformnak.</li>
+            </ul>
+        </section>
+
+        <section id="osszegzes" class="card highlight">
+            <h2>Összegzés – 5 aranyszabály</h2>
+            <ol>
+                <li><strong>Használj erős, egyedi jelszavakat és kétlépcsős azonosítást.</strong></li>
+                <li><strong>Védd a személyes adataidat, gondold át, mit osztasz meg.</strong></li>
+                <li><strong>Légy óvatos a linkekkel, e-mailekkel, üzenetekkel – gyanús esetben ne kattints.</strong></li>
+                <li><strong>Tartsd biztonságban az eszközeidet frissítéssel, vírusirtóval, képernyőzárral.</strong></li>
+                <li><strong>Gondolkodj kritikusan, és viselkedj tiszteletteljesen online is.</strong></li>
+            </ol>
+            <p class="footer-note">
+                Ha bizonytalan vagy, kérj segítséget egy megbízható felnőttől, tanártól vagy szakembertől – nem vagy egyedül.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Biztonságos internethasználat – Oktatási célú mintaoldal</p>
+    </footer>
+</body>
+</html>
